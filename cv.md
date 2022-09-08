@@ -12,10 +12,13 @@
 * CSS
 * JavaScript
 ***
-## **Code Examples**
+## **Code Example**
 ```
 function sayHello(name) {
   return 'Hello, ' + name;
 }
 ```
+***
+## **Education**
+Belarusian state university of transport
 ***
