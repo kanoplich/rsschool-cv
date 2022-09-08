@@ -24,5 +24,5 @@ function sayHello(name) {
 Belarusian state university of transport (2006 - 2011)  
   
 ## **Language**  
-Russian - Native  
-English - Beginner
+* Russian - Native
+* English - Beginner
