@@ -12,3 +12,10 @@
 * CSS
 * JavaScript
 ***
+## **Code Examples**
+```
+function sayHello(name) {
+  return 'Hello, ' + name;
+}
+```
+***
