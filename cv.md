@@ -21,5 +21,8 @@ function sayHello(name) {
 ```
 ***
 ## **Education**
-Belarusian state university of transport
+Belarusian state university of transport (2006 - 2011)
 ***
+## **Language**
+Russian - Native  
+English - Beginner
